@@ -1,0 +1,8 @@
+package basictestng;
+
+public class example1 {
+  @Test
+  public void testcase1() {
+	  
+  }
+}

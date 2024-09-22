@@ -1,0 +1,30 @@
+package example3;
+
+public class day1demo2 {
+
+	public static void main(String[] args) {
+		//addition
+		System.out.println("program start");
+		int num1=8;
+		int num2=18;
+		int result=num1+num2;
+		System.out.println("number1 is: "+num1);
+		System.out.println("number2 is: "+num2);
+		System.out.println("additional of two number :"+result);
+		//subtration
+		result=num1-num2;
+		System.out.println("subtration of two number :"+result);
+		//multiplication
+		result=num1*num2;
+		System.out.println("multiplicatio of two number :");
+		//division
+		result=num1/num2;
+		System.out.println("division of two number :"+result);
+		//mod
+		result=num1%num2;
+		System.out.println("mod of two number :"+result);
+		System.out.println("program end");
+
+	}
+
+}

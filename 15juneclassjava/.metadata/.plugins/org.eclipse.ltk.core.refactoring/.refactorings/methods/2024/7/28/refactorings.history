@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;methods.methodstatic.java&apos; to &apos;MethodSyntax.java&apos;&#x0D;&#x0A;- Original project: &apos;methods&apos;&#x0D;&#x0A;- Original element: &apos;methods.methodstatic.java&apos;&#x0D;&#x0A;- Renamed element: &apos;methods.MethodSyntax.java&apos;" description="Rename compilation unit &apos;methodstatic.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;methods{methodstatic.java" name="MethodSyntax.java" references="false" stamp="1720674895966" version="1.0"/>
+</session>

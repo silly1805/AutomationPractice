@@ -1,0 +1,11 @@
+package example3;
+
+public class day1demo {
+
+	public static void main(String[] args) {
+		System.out.println("program start");
+		
+
+	}
+
+}

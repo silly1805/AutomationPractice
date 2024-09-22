@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\acceleration\automationsession\workspace\15juneclassjava\example 1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+440505712.index

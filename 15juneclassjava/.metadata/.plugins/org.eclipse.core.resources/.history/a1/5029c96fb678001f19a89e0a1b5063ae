@@ -1,0 +1,9 @@
+package basictestng;
+
+import org.testng.annotations.Test;
+
+public class example1Test {
+  @Test
+  public void f() {
+  }
+}
